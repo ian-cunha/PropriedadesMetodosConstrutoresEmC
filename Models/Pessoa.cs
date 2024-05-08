@@ -19,7 +19,7 @@ namespace ExemploExplorando.Models
             {
                 if (value == "")
                 {
-                    throw new ArgumentException("O nome não pode ser vazio");
+                    throw new ArgumentException("O nome não pode ser vazio.");
                 }
 
                 _nome = value;
