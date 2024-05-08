@@ -1,0 +1,14 @@
+C:\Users\iancu\Documents\repository\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\Users\iancu\Documents\repository\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\Users\iancu\Documents\repository\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\Users\iancu\Documents\repository\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\Users\iancu\Documents\repository\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\iancu\Documents\repository\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
